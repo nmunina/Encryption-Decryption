@@ -21,8 +21,3 @@ Planned
 
 ## Credits
  [JetBrains Academy](https://hyperskill.org/curriculum) as teaching organization.
-
-## License
-
-
-MIT © [nmunina]()
